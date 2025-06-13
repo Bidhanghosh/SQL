@@ -1,1 +1,40 @@
+🧠 Advanced SQL Practice with Real-World Scenarios
+This repository contains 50 advanced SQL query exercises inspired by real-world business problems, using a small dataset of just 10 rows to demonstrate powerful SQL capabilities.
+
+📂 Project Structure
+Dataset: sales_data.csv – A compact dataset with products, customers, and transactions.
+
+SQL Queries: Covers aggregation, joins, subqueries, CTEs, window functions, and case logic.
+
+Use Cases: Retail/commerce-like scenario (Zomato/Amazon model).
+
+🔍 Topics Covered
+🔸 Aggregation & Grouping
+Revenue, profit, average sell price, top customers, monthly sales...
+
+🔸 Joins & Multi-table Queries
+Customer-product insights, unsold products, city-wise buyers...
+
+🔸 Subqueries & Window Functions
+Product ranking, repeat buyers, revenue trends...
+
+🔸 CTEs & Logic
+Customer segmentation, profit labels, resell counts...
+
+📊 Why This Project?
+Even with a tiny dataset, this project:
+
+Simulates real SQL interviews & business scenarios
+
+Strengthens SQL fundamentals + advanced logic
+
+Helps you prep for data analyst / BI / data science roles
+
+📌 Ideal For:
+SQL beginners aiming to practice queries in context
+
+Data analyst aspirants preparing for case rounds
+
+Anyone looking to showcase SQL skills with clean examples
+
 
